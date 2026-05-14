@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  text-align: center;
+}
+
+/* HERO */
+.hero {
+  background: #333;
+  color: rgb(246, 0, 0);
+  padding: 60px;
+}
+
+/* ABOUT */
+.about {
+  padding: 40px;
+}
+
+/* PROJECTS */
+.projects {
+  padding: 40px;
+}
+
+.card {
+  border: 1px solid #84ff00;
+  margin: 10px;
+  padding: 20px;
+  display: inline-block;
+}
+
+/* CONTACT */
+.contact {
+  padding: 40px;
+  background: #ff0000;
+}
+
+/* FOOTER */
+footer {
+  background: black;
+  color: white;
+  padding: 20px;
+}
