@@ -23,6 +23,8 @@ This project is a static portfolio website hosted on AWS.
 ## 🔗 Live Website
 https://defu5lx17kg8.cloudfront.net
 
+Note: These activities were completed as part of internship learning tasks. The AWS Free Tier trial has expired, and the associated AWS resources are currently inactive.
+
 ## 📂 GitHub Repository
 https://github.com/Durkesh23/portfolio
 
