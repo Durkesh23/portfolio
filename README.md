@@ -37,8 +37,6 @@ https://github.com/Durkesh23/portfolio
 ### CloudFront Distribution
 ![CloudFront](https://github.com/Durkesh23/portfolio/blob/c63f0008f73a92e5860f32bfcc85bcc815796945/Cloudfront%20.png)
 
-### Live Website
-![Website](https://github.com/Durkesh23/portfolio/blob/c63f0008f73a92e5860f32bfcc85bcc815796945/Live%20Website%20.png)
 
 ## 👨‍💻 Author
 Durkesh A
